@@ -1,0 +1,15 @@
+pwd
+cd/tmp
+pwd
+ls
+ls-l
+ls-la
+mkdir LinuxPractise
+cd LinuxPractise
+touch file1 file2
+ls
+ls-l
+ls-la
+mkdir Demo
+cd demo
+pwd
