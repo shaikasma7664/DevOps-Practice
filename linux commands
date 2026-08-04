@@ -1,0 +1,20 @@
+pwd- print working directory
+cd-class
+ls-list
+mkdir-make directory
+touch-touch
+cat-concatenate
+cp-copy
+mv-move
+rm-remove
+find-find
+grep-global regular expression print
+ps- process status
+top- top process
+kill- kill process
+df-disk filesystem
+chmod-change mode
+chown-change owner
+ssh-secure shell
+du-disk usage
+df- disk filesystem
